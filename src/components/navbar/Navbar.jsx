@@ -5,8 +5,8 @@ function Navbar() {
     return (
         <nav>
             <div className="left">
-                <a href="/">
-                    <img src="/logo.png" alt="logo" className="logo" />
+                <a href="/" className="logo">
+                    <img src="/logo.png" alt="logo" />
                     <span>LamaEstate</span>
                 </a>
                 <a href="/">Home</a>
